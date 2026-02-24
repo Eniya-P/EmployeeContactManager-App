@@ -17,4 +17,4 @@ Developed using Java and Android Studio using ListView, CardView and Intent feat
 - ListView display
 
 ## App Screenshots
-[App screenshot](Screenshot(38).png)
+[App screenshot](employee.png)
