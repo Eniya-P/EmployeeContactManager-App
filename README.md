@@ -2,7 +2,7 @@
 
 ## Student Details
 Register Number: 732923ITR028
-Name: (your name)
+Name: Eniya
 
 ## App Description
 This Android application helps manage employee details such as name, ID, phone and department. 
